@@ -24,7 +24,7 @@ Target: 58.32.6.70
 SHA CT 163
 
 ```
- Target: 114.95.43.1 
+Target: 114.95.43.1 
  Hop  IP Address      Latency    ISP                         Location             
  1    103.152.35.1    0.344 ms   AS38008 - APERTURE-AS-AP    Hong Kong SAR        
 
@@ -63,7 +63,7 @@ Target: 223.166.72.1
 SHA CM
 
 ```
- Target: 211.136.165.18 
+Target: 211.136.165.18 
  Hop  IP Address      Latency    ISP                               Location             
  1    103.152.35.1    0.627 ms   AS38008 - APERTURE-AS-AP          Hong Kong SAR        
 
